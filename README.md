@@ -1,1 +1,1 @@
-# Etch-A-Sketch
+This is a version of the classic Etch-A-Sketch game, made using HTML, CSS and JavaScript.

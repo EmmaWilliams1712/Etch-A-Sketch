@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 80vh;
+    margin: 0;
+    background-color: #FFEBCD;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    gap: 4px;
+    width: 500px; 
+    height: 500px; 
+    margin-top: 30px;
+}
+
+.grid-item {
+    width: 100%;
+    height: 100%;
+    background-color:white;
+    border: 1px solid #8b9ba7;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 26px;
+}
