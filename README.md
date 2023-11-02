@@ -1,1 +1,1 @@
-This is a version of the classic Etch-A-Sketch game, made using HTML, CSS and JavaScript.
+This is a version of the classic Etch-A-Sketch game, made using HTML, CSS and JavaScript. It has the option to change the size of the grid up to 100 x 100, and to select any colour to fill the cells with. Also it has a gradient effect, so the more times you hover over a cell the darker the chosen colour will get, until the limit of 10 times is reached when the cell with be coloured completely black. 

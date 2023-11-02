@@ -1,7 +1,7 @@
 body {
     min-height: 100vh;
     margin: 0;
-    background-color: #FFEBCD;
+    background-color: black;
 }
 .container {
     display: flex;
@@ -11,8 +11,9 @@ body {
 
 h1 {
     font-family: 'Press Start 2P', cursive;
-    font-size: 26px;
+    font-size: 32px;
     margin-top: 30px;
+    color: yellow;
 }
 
 .grid-container {
@@ -37,4 +38,6 @@ h1 {
 button {
     width: 100px;
     height: 50px;
+    background-color: rgb(150, 63, 231);
+    border-radius: 15%;
 }
